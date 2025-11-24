@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+joblib #it is used to save the model in matchine
+pytest # src folder code test
+
